@@ -1,1 +1,1 @@
-print('Analyzing DNA sequences...')
+print('Analyzing DNA sequences... STARTING NOW')
